@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../EventPlanningCompanyDAL/EventPlanningCompanyDAL.csproj" />
+  <Project Path="../EventPlanningCompanyServices/EventPlanningCompanyServices.csproj" />
+  <Project Path="EventPlanningCompanyMVC.csproj" />
+</Solution>

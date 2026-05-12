@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BCCBEF-EB45-49DB-AE93-4D69DF3D5C30}|..\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanyservices\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\repository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\data\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Migrations\\20260512112345_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanymvc\\eventplanningcompanymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B44301B-581F-4A82-B3EE-166B27843DD0}|EventPlanningCompanyMVC.csproj|solutionrelative:eventplanningcompanymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BCCBEF-EB45-49DB-AE93-4D69DF3D5C30}|..\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanyservices\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2B074-8582-4811-8681-C849A48D6973}|..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanydal\\eventplanningcompanydal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BCCBEF-EB45-49DB-AE93-4D69DF3D5C30}|..\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj|c:\\users\\kiit\\desktop\\dotnetsampledemo\\eventplanningcompanyservices\\eventplanningcompanyservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T12:16:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:11:42.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:47:10.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:46:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:46:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAG8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:48:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Controllers\\AccountController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:01:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T11:48:44.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T12:07:08.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyServices\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\Services\\EventService.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyServices\\Services\\EventService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:08:40.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Repository\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Repository\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Repository\\IEventRepository.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Repository\\IEventRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:48:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Repository\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Repository\\EventRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:50:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:34:43.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\EventModel.cs",
+              "RelativeToolTip": "Models\\EventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:27:13.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Data\\EventDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Data\\EventDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Data\\EventDbContextFactory.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Data\\EventDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:22:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Data\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Data\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Data\\EventDbContext.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Data\\EventDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:22:01.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:26:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:26:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260512112345_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Migrations\\20260512112345_Initial.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Migrations\\20260512112345_Initial.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Migrations\\20260512112345_Initial.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Migrations\\20260512112345_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:23:45.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T11:09:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyServices\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyServices\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:06:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventPlanningCompanyMVC",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\EventPlanningCompanyMVC.csproj",
+              "RelativeDocumentMoniker": "EventPlanningCompanyMVC.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyMVC\\EventPlanningCompanyMVC.csproj",
+              "RelativeToolTip": "EventPlanningCompanyMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T10:41:05.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventPlanningCompanyDAL",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\EventPlanningCompanyDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T10:41:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyDAL\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyDAL\\Models\\Event.cs",
+              "RelativeToolTip": "..\\EventPlanningCompanyDAL\\Models\\Event.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:44:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventPlanningCompanyServices",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj",
+              "RelativeDocumentMoniker": "..\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\DotNetSampleDemo\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj",
+              "RelativeToolTip": "..\\EventPlanningCompanyServices\\EventPlanningCompanyServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T10:41:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

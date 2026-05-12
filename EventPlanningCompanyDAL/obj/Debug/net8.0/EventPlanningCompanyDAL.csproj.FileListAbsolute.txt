@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\bin\Debug\net8.0\EventPlanningCompanyDAL.deps.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\bin\Debug\net8.0\EventPlanningCompanyDAL.runtimeconfig.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\bin\Debug\net8.0\EventPlanningCompanyDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\bin\Debug\net8.0\EventPlanningCompanyDAL.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\refint\EventPlanningCompanyDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\EventPlanningCompanyDAL.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyDAL\obj\Debug\net8.0\ref\EventPlanningCompanyDAL.dll

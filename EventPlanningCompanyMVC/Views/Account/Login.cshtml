@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Admin Login</h2>
+
+<hr />
+
+<form method="post"
+      asp-controller="Account"
+      asp-action="Login">
+
+    <div class="mb-3">
+
+        <label class="form-label">
+            Username
+        </label>
+
+        <input type="text"
+               name="username"
+               class="form-control" />
+
+    </div>
+
+    <div class="mb-3">
+
+        <label class="form-label">
+            Password
+        </label>
+
+        <input type="password"
+               name="password"
+               class="form-control" />
+
+    </div>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="text-danger mb-3">
+            @ViewBag.Error
+        </div>
+    }
+
+    <button type="submit"
+            class="btn btn-primary">
+        Login
+    </button>
+
+</form>
+
+<br />
+
+<p>
+    Demo Credentials:
+    <strong>admin / admin123</strong>
+</p>

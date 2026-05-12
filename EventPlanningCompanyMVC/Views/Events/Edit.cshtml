@@ -1,0 +1,120 @@
+﻿@model EventPlanningCompanyDAL.Models.Event
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Event</h2>
+
+<hr />
+
+<div class="row">
+
+    <div class="col-md-4">
+
+        <form method="post"
+              asp-action="Edit">
+
+            <div asp-validation-summary="ModelOnly"
+                 class="text-danger">
+            </div>
+
+            <input type="hidden"
+                   asp-for="EventId" />
+
+            <div class="mb-3">
+
+                <label asp-for="Name"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Name"
+                       class="form-control" />
+
+                <span asp-validation-for="Name"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Date"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Date"
+                       type="date"
+                       class="form-control" />
+
+                <span asp-validation-for="Date"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Location"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Location"
+                       class="form-control" />
+
+                <span asp-validation-for="Location"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Type"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Type"
+                       class="form-control" />
+
+                <span asp-validation-for="Type"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Budget"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Budget"
+                       class="form-control" />
+
+                <span asp-validation-for="Budget"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <input type="submit"
+                   value="Update"
+                   class="btn btn-warning" />
+
+            <a asp-action="Index"
+                   class="btn btn-secondary">
+                Back To List
+            </a>
+
+        </form>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

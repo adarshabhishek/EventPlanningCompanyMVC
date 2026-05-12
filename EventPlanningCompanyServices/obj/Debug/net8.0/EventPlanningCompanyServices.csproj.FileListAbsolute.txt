@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\bin\Debug\net8.0\EventPlanningCompanyServices.deps.json
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\bin\Debug\net8.0\EventPlanningCompanyServices.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\bin\Debug\net8.0\EventPlanningCompanyServices.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\bin\Debug\net8.0\EventPlanningCompanyDAL.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\bin\Debug\net8.0\EventPlanningCompanyDAL.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPla.DED1A4A4.Up2Date
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\refint\EventPlanningCompanyServices.dll
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\EventPlanningCompanyServices.pdb
+C:\Users\KIIT\Desktop\DotNetSampleDemo\EventPlanningCompanyServices\obj\Debug\net8.0\ref\EventPlanningCompanyServices.dll

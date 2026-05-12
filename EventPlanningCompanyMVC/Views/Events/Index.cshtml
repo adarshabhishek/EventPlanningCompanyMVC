@@ -1,0 +1,129 @@
+﻿@model IEnumerable<EventPlanningCompanyDAL.Models.Event>
+
+@{
+    ViewData["Title"] = "Event List";
+}
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
+
+            <h3 class="mb-0">Event Management</h3>
+            <a asp-controller="Events"
+                   asp-action="Create"
+                   class="btn btn-light">
+                Add New Event
+            </a>
+        </div>
+        <div class="card-body">
+            <!-- Success Message -->
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["Success"]
+                </div>
+            }
+
+            <!-- Search Form -->
+
+            <form asp-controller="Events"
+                  asp-action="Search"
+                  method="get"
+                  class="row mb-3">
+                <div class="col-md-10">
+                    <input type="text"
+                           name="keyword"
+                           value="@ViewBag.Search"
+                           class="form-control"
+                           placeholder="Search Event By Name..." />
+                </div>
+                <div class="col-md-2">
+                    <button type="submit"
+                            class="btn btn-primary w-100">
+                        Search
+                    </button>
+                </div>
+
+            </form>
+            <!-- Event Table -->
+
+            <table class="table table-bordered table-hover">
+                <thead class="table-dark">
+                    <tr>
+                        <th>
+                            Event Name
+                        </th>
+                        <th>
+                            Date
+                        </th>
+                        <th>
+                            Location
+                        </th>
+                        <th>
+                            Type
+                        </th>
+                        <th>
+                            Budget
+                        </th>
+                        <th width="280">
+                            Actions
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @if (Model != null && Model.Any())
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    @item.Date.ToShortDateString()
+                                </td>
+                                <td>
+                                    @item.Location
+                                </td>
+                                <td>
+                                    @item.Type
+                                </td>
+                                <td>
+                                    ₹ @item.Budget
+                                </td>
+                                <td>
+                                    <a asp-controller="Events"
+                                           asp-action="Edit"
+                                           asp-route-id="@item.EventId"
+                                           class="btn btn-warning btn-sm">
+                                        Edit
+                                    </a>
+                                    <a asp-controller="Events"
+                                           asp-action="Details"
+                                           asp-route-id="@item.EventId"
+                                           class="btn btn-info btn-sm text-white">
+                                        Details
+                                    </a>
+                                    <a asp-controller="Events"
+                                           asp-action="Delete"
+                                           asp-route-id="@item.EventId"
+                                           class="btn btn-danger btn-sm">
+                                        Delete
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="6" class="text-center text-danger">
+                                No Events Found
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
